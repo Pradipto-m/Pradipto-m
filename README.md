@@ -1,5 +1,5 @@
 <!-- ![Welcome Banner Gif](https://github.com/Pradipto-m/Pradipto-m/blob/main/bannergif.gif) -->
-<img align="center" src="https://github.com/Pradipto-m/Pradipto-m/blob/main/bannergif.gif" alt='' height='225' width='1200' ></img>
+<img align="center" src="https://github.com/Pradipto-m/Pradipto-m/blob/main/bannergif.gif" alt='' height='200' width='1200' ></img>
 
 ## Hi there, I am Pradipto Mondal <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='45' width='45'></img>
 ### I am a passionate software engineer in Kolkata
