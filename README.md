@@ -1,11 +1,11 @@
 <!-- <p align='center'> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=515&height=65&lines=Hola!+Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Nice+to+meet+you+%F0%9F%98%8A;Have+a+nice+day+%F0%9F%8C%9E" alt='' /> </p> -->
 
-<img src="Github_Assets/Banner.gif" alt='' />
+<img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/Banner.gif" alt='' />
 
-# <p align='center'> < Hello World, I am Pradipto Mondal <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> />
+# <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> />
 
 <!-- <img align='right' src="https://media3.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt='' height="300" width="300"></img> -->
-<img align='right' src="Github_Assets/aboutGif" alt='' height='300' width='300' />
+<img align='right' src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/aboutGif.gif" alt='' height='300' width='300' />
 
 <p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new development challenges. I love to work with latest technologies and build scalable products. </p>
 
@@ -24,7 +24,7 @@
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://impradipto.web.app) &nbsp;
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Prostyles/) &nbsp;
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/procodes_96) &nbsp;
-[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prostylesunbound/) &nbsp;
+[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pradipto96) &nbsp;
 <!-- [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://hackerearth.com/@Prostyles_96) -->
 <!-- [![Website](https://img.shields.io/static/v1?label=Website&message=.&style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=blue&color=blue)](https://impradipto.web.app) -->
 
@@ -58,13 +58,14 @@
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipto-m&theme=tokyonight" alt="Pradipto" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipto-m&layout=compact&theme=gotham" alt="Pradipto" />
 
-<br/>
 
 <!-- ![Lines of code](https://img.shields.io/badge/Written-5M%20lines%20of%20code-blue)
 ![Profile views](https://gpvc.arturio.dev/Pradipto-m)
 ![Profile views](https://komarev.com/ghpvc/?username=Pradipto-m&label=Profile%20views&color=0e75b6&style=flat)
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Pradipto-m.Pradipto-m) -->
 
+<br/>
+<br/>
 
 <img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
 <br/>
