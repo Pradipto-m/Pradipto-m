@@ -1,6 +1,6 @@
 <!-- <p align='center'> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=515&height=65&lines=Hola!+Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Nice+to+meet+you+%F0%9F%98%8A;Have+a+nice+day+%F0%9F%8C%9E" alt='' /> </p> -->
 
-<img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/banner.gif" alt='' />
+<img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/Banner.gif" alt='' />
 
 <!-- # <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> /> -->
 
