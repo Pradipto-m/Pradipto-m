@@ -1,22 +1,22 @@
 <!-- <p align='center'> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=515&height=65&lines=Hola!+Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Nice+to+meet+you+%F0%9F%98%8A;Have+a+nice+day+%F0%9F%8C%9E" alt='' /> </p> -->
 
-<img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/Banner.gif" alt='' />
+<img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/banner.gif" alt='' />
 
-# <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> />
+<!-- # <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> /> -->
 
 <!-- <img align='right' src="https://media3.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt='' height="300" width="300"></img> -->
 <img align='right' src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/aboutGif.gif" alt='' height='300' width='300' />
 
-<p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new development challenges. I love to work with latest technologies and build scalable products. </p>
+<p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses. </p>
 
-- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Android Projects</code> <code>Problem Solving</code>**
-- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Mobile Application Development</code>&nbsp;<code>Competitive Programming</code>**
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Open-Source Projects</code>**
+- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Cross-Platform Mobile Apps</code> <code>DSA</code>**
+- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Backend Development</code>&nbsp;<code>Competitive Programming</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Freelance Projects</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:prostyles.096@gmail.com)** | **[Linkedin](https://linkedin.com/in/pradipto-mondal)**</code>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](impradipto.web.app)</code>**
 
 
-## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Right-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Left-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /> Connect with me:
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt='' width='30' height='30' /> Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prostyles.096@gmail.com) &nbsp;
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradipto-m/) &nbsp;
@@ -37,14 +37,14 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" alt="android" width="45" height="45"/> </a> &nbsp;
-<a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/android-studio--v2.png" alt="android" width="40" height="40"/> </a> &nbsp;
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &nbsp;
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
 </p>
 
